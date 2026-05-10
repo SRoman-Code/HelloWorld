@@ -1,0 +1,10 @@
+# Compiled binaries
+hello
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
